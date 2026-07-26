@@ -1,25 +1,21 @@
 # Linux System Administration Portfolio
 
-A collection of hands-on Linux System Administration projects focused on server deployment, service configuration, troubleshooting, and infrastructure management using Ubuntu Server.
+A collection of Linux System Administration projects focusing on server deployment, network services, and infrastructure management.
 
-## Featured Projects
+## Projects
 
-### Project 01 — Linux Mail Server Administration
-- Postfix SMTP Configuration
-- Dovecot IMAP Configuration
-- Roundcube Webmail Deployment
-- Email Testing & Troubleshooting
+### 📧 Project-01 — Linux Mail Server
 
-## Technologies
+Implementation of a local mail server using Ubuntu Server, Postfix, Dovecot, and Roundcube Webmail. This project demonstrates email service deployment, configuration, and local mail communication.
 
-- Ubuntu Server
-- Linux CLI
-- Postfix
-- Dovecot
-- Roundcube
-- Apache2
-- VMware
+---
 
-## Status
+### 🌐 Project-02 — LAMP Stack Deployment
 
-🚧 Continuously updated as I explore more Linux System Administration and server technologies.
+Deployment of a complete LAMP (Linux, Apache, MariaDB, PHP) environment on Ubuntu Server. This project demonstrates web server configuration, PHP integration, MariaDB database management, and PHP-MySQL connectivity through a simple web application.
+
+---
+
+### 🚧 Project-03 — WIRE-HOUSE Inventory System *(Coming Soon)*
+
+A web-based warehouse inventory management system built with PHP and MariaDB featuring authentication, dashboard, inventory management, reporting, and system administration features.
