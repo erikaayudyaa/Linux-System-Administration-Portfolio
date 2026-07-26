@@ -1,21 +1,41 @@
-# Linux System Administration Portfolio
+# 🚀 Project 02 - LAMP Stack Deployment
 
-A collection of Linux System Administration projects focusing on server deployment, network services, and infrastructure management.
+## Overview
 
-## Projects
+This project demonstrates the deployment and configuration of a **LAMP (Linux, Apache, MariaDB, PHP)** environment on **Ubuntu Server**. The server was configured to host a PHP web application connected to a MariaDB database, providing a complete foundation for web application deployment.
 
-### 📧 Project-01 — Linux Mail Server
-
-Implementation of a local mail server using Ubuntu Server, Postfix, Dovecot, and Roundcube Webmail. This project demonstrates email service deployment, configuration, and local mail communication.
+The project covers server installation, web service configuration, database management, PHP integration, and connectivity testing through a simple inventory-based web application.
 
 ---
 
-### 🌐 Project-02 — LAMP Stack Deployment
+## Objectives
 
-Deployment of a complete LAMP (Linux, Apache, MariaDB, PHP) environment on Ubuntu Server. This project demonstrates web server configuration, PHP integration, MariaDB database management, and PHP-MySQL connectivity through a simple web application.
+- Deploy a LAMP Stack environment on Ubuntu Server.
+- Configure Apache2 as a web server.
+- Install and configure PHP.
+- Install and manage MariaDB databases.
+- Connect PHP applications with MariaDB.
+- Verify database connectivity through a web interface.
 
 ---
 
-### 🚧 Project-03 — WIRE-HOUSE Inventory System *(Coming Soon)*
+## Technologies Used
 
-A web-based warehouse inventory management system built with PHP and MariaDB featuring authentication, dashboard, inventory management, reporting, and system administration features.
+- Ubuntu Server
+- Apache2
+- PHP
+- MariaDB
+- HTML
+- SQL
+
+---
+
+## Project Structure
+
+```text
+Project-02-LAMP-Stack/
+│
+├── project-files/
+├── screenshots/
+├── docs/
+└── README.md
